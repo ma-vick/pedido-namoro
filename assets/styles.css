@@ -45,7 +45,7 @@ body {
 }
 
 .container img {
-    max-width: 80%;
+    width: 220px;
 }
 
 .buttons {
